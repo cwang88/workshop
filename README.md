@@ -1,2 +1,2 @@
 # workshop
-Workshop
+repository on Github
